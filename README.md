@@ -1,2 +1,2 @@
-theme: Modernist
+theme: modernist
 anything goes
